@@ -1,4 +1,4 @@
-Id_Paciente;Edad;MMSE;MoCA;Volumen_Hipocampo;Anos_Diagnostico;Nivel_Actividad_Física;Indice_Masa_Corporal;Porcentaje_Pérdida_Memoria
+Id_Paciente;Edad;MMSE;MoCA;Volumen_Hipocampo;Anos_Diagnostico;Nivel_Actividad_Fisica;Indice_Masa_Corporal;Porcentaje_Perdida_Memoria
 p001;80;17;20;4.02;6;Moderado;26.64;12.1
 p002;63;26;13;4.47;4;Alto;30.97;5.1
 p003;60;29;12;2.16;10;Leve;32.71;37.39
